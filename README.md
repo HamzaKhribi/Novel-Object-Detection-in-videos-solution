@@ -14,15 +14,15 @@ although it was trained on a day context and this is due to the ability of CHOP 
 
 Screenshots of Results
 ======================
-![alt text](http://images.ivmlab.org/14.PNG)
+![alt text](http://images.ivmlab.com/14.PNG)
 
-![alt text](http://images.ivmlab.org/15.PNG)
+![alt text](http://images.ivmlab.com/15.PNG)
 
-![alt text](http://images.ivmlab.org/16.PNG)
+![alt text](http://images.ivmlab.com/16.PNG)
 
-![alt text](http://images.ivmlab.org/17.PNG)
+![alt text](http://images.ivmlab.com/17.PNG)
 
-![alt text](http://images.ivmlab.org/18.PNG)
+![alt text](http://images.ivmlab.com/18.PNG)
 
 
 
